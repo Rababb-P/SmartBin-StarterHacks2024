@@ -1,0 +1,69 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+candy wrapper_1.jpg,640,480,CandyWrapper,225,287,423,352
+candy wrapper_11.jpg,640,480,CandyWrapper,169,283,310,347
+candy wrapper_12.jpg,640,480,CandyWrapper,164,283,312,348
+candy wrapper_2.jpg,640,480,CandyWrapper,260,292,370,351
+candy wrapper_3.jpg,640,480,CandyWrapper,214,299,412,350
+candy wrapper_4.jpg,640,480,CandyWrapper,219,303,391,351
+candy wrapper_5.jpg,640,480,CandyWrapper,259,303,362,349
+candy wrapper_6.jpg,640,480,CandyWrapper,264,305,446,353
+candy wrapper_7.jpg,640,480,CandyWrapper,275,191,364,345
+candy wrapper_8.jpg,640,480,CandyWrapper,267,298,386,350
+candy wrapper_9.jpg,640,480,CandyWrapper,277,205,375,347
+chips_1.jpg,640,480,Chips,147,153,537,359
+chips_10.jpg,640,480,Chips,10,135,427,348
+chips_14.jpg,640,480,Chips,22,119,380,344
+chips_15.jpg,640,480,Chips,139,129,410,356
+chips_2.jpg,640,480,Chips,197,87,488,356
+chips_3.jpg,640,480,Chips,132,114,542,365
+chips_4.jpg,640,480,Chips,62,144,438,351
+chips_5.jpg,640,480,Chips,173,153,493,351
+chips_6.jpg,640,480,Chips,171,181,496,353
+chips_7.jpg,640,480,Chips,87,85,495,358
+chips_8.jpg,640,480,Chips,121,56,605,351
+juice box_1.jpg,640,480,JuiceBox,289,136,400,351
+juice box_14.jpg,640,480,JuiceBox,258,116,385,351
+juice box_15.jpg,640,480,JuiceBox,210,61,353,356
+juice box_2.jpg,640,480,JuiceBox,216,252,432,354
+juice box_3.jpg,640,480,JuiceBox,248,131,384,349
+juice box_4.jpg,640,480,JuiceBox,261,124,393,354
+juice box_5.jpg,640,480,JuiceBox,184,252,394,355
+juice box_6.jpg,640,480,JuiceBox,229,259,414,351
+juice box_7.jpg,640,480,JuiceBox,207,259,408,353
+juice box_8.jpg,640,480,JuiceBox,284,126,366,355
+juice box_9.jpg,640,480,JuiceBox,252,127,333,351
+paper plate_1.jpg,640,480,Plate,234,320,491,356
+paper plate_13.jpg,640,480,Plate,1,309,367,349
+paper plate_14.jpg,640,480,Plate,190,316,465,356
+paper plate_15.jpg,640,480,Plate,191,315,468,356
+paper plate_2.jpg,640,480,Plate,174,308,484,353
+paper plate_3.jpg,640,480,Plate,159,306,477,355
+paper plate_4.jpg,640,480,Plate,160,307,478,357
+paper plate_5.jpg,640,480,Plate,237,317,508,360
+paper plate_6.jpg,640,480,Plate,237,319,506,359
+paper plate_7.jpg,640,480,Plate,148,305,503,358
+paper plate_8.jpg,640,480,Plate,229,320,485,354
+paper plate_9.jpg,640,480,Plate,181,315,585,368
+tissues_1.jpg,640,480,Tissue,164,315,434,352
+tissues_10.jpg,640,480,Tissue,235,250,409,349
+tissues_14.jpg,640,480,Tissue,346,256,452,353
+tissues_15.jpg,640,480,Tissue,220,261,372,348
+tissues_3.jpg,640,480,Tissue,241,253,446,348
+tissues_4.jpg,640,480,Tissue,261,267,412,343
+tissues_5.jpg,640,480,Tissue,228,253,354,344
+tissues_6.jpg,640,480,Tissue,384,248,623,367
+tissues_7.jpg,640,480,Tissue,178,257,330,344
+tissues_8.jpg,640,480,Tissue,236,249,392,347
+tissues_9.jpg,640,480,Tissue,160,261,422,349
+water bottle_1.jpg,640,480,WaterBottle,243,64,335,345
+water bottle_13.jpg,640,480,WaterBottle,233,54,333,347
+water bottle_14.jpg,640,480,WaterBottle,236,54,332,348
+water bottle_15.jpg,640,480,WaterBottle,228,55,326,345
+water bottle_2.jpg,640,480,WaterBottle,242,247,350,346
+water bottle_3.jpg,640,480,WaterBottle,119,250,421,350
+water bottle_4.jpg,640,480,WaterBottle,166,252,458,351
+water bottle_5.jpg,640,480,WaterBottle,139,240,421,347
+water bottle_6.jpg,640,480,WaterBottle,185,251,443,348
+water bottle_7.jpg,640,480,WaterBottle,144,244,409,348
+water bottle_8.jpg,640,480,WaterBottle,262,240,384,352
+water bottle_9.jpg,640,480,WaterBottle,192,237,424,345

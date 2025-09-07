@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>candy wrapper_8.jpg</filename>
+	<path>C:\Users\camel\OneDrive\Desktop\GarbageCollector\models\research\object_detection\images\train\candy wrapper_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CandyWrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>298</ymin>
+			<xmax>386</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>water bottle_2.jpg</filename>
+	<path>C:\Users\camel\OneDrive\Desktop\GarbageCollector\models\research\object_detection\images\train\water bottle_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WaterBottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>247</ymin>
+			<xmax>350</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
